@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asj-digital",
+  "private_key_id": "0c827bca48611f19da9714d79dac72fba98b5093",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD52j4zvBGfX18v\npwlywJeEn1vYw2or7/65vfprDGiJgrKHtCi4P5GuUlcgsw/TJbRmTDKUWXLjKgGc\nhoqX1fyUyNcz8BU0xuQS/GqWUYj/dMr0LPlj7crtZGK+2erkE8SRDi8M996uA9f1\nfN+Y8iq3uf5vnXPmLn6VETIU1fqPcICKMeWkKk2IbV2nLoUuh3yaCm47sDMkzcX3\nX2LHAG+HbvZmiwpK7RROQDJSj+bIbRWw65V6/AduO1kflPqykOwNWajPId0HVrlJ\nPg/IQm3G15ApQlPE5Mkc8j+axXxuP1/SCigdybPTGWfLf9OEog0I1ZsNoBFi4BsG\nR1MrTnt7AgMBAAECggEAGv6HWz47MTA0BTP+LgBniRP777l9ORi0OWEwiGxOHGfw\niKo1qWJvh5lXLINBdxtLGFpXL0v9a6mthDnNCNvnxDNxfNJi7XwnnB2Fbo7fRv+u\nsHRDeuvFfEyCQVh4q60EacpR2bbWFOWkFDPU/J39cN2O2IRMcgFypQG3RXpbmITl\nLJd4KiBY+wQN+ixGEnlV/MNp3RfxXQDBvHOjZDaBkcz6paliVRrFP5RyGsxBv22G\nOxFWsKwM5MSHc7UxmhEEfPabW1yQYjiefyDUAPdGfgrjbT7ksfU1AQE8yhYR9HdH\ngmyruu9RYx1t5rBXbC9XZ+OjQBmwYDqD+SzYKkK+QQKBgQD/swbhEG9JCD1Z+OBS\npp0ldOKUs6K5kesOUFSRg4EqlVp0AZwPIjPo4MS4g9lsbbJMk/2fZ3GMqBhE4E/D\n/VrlI4mlGJzfEWIjzd+yrxhDj7xrgG+2AfnmtWdlQgGQCloOY7IDruFL7kApAV35\nYE+7o3cP9F8UTw0tH0Mi3tLgsQKBgQD6JXS/DdGcRwaLitcw6b9fMSgXmlqc2cr5\nHwzxtkGSsQF5ylWjBSfENINw9wARwgnCj0Q8PYapsomz2ZRq6wLV/AsORXRMODPz\nCRh+7Cp/cdgCyiVXLjp8j5GuerIV5pAQ5LVkWFVdXopLcIH+54F0WWyy7TUc0wbE\nmcjGKBQJ6wKBgB8Gif8lD1u9NDSGjjF5Jfg1hoikg0og+nRyKtC9NB8GoEMTLuxn\nKgVHwJbi6K7PYKMKEewVkSGQA+HXldYiF7VV6o2tvtsSMOZHRK1ZsYgBGMuyeduL\nwdbMjA8tQyNHHkZAsojf31ZnQkG3eL+ZgBM0cm3tKNw9+0tOT8cbYlsBAoGAPgJG\n/I16ZpkcwD68tX1cWUagP6mdyMAclsDhvpGFk82ZJg3ISM8gWn0CEGDKfZxyOu60\n5ZIC7dI6XIEVT6POYilGvFTvTW2pQxgAIIZ+ynT4LUjbFM965CHa5Tu5JcCv+eAY\nLzXOg4TKF4VeVEgjSSpZzckLn4eYZ+gPYz/QJ90CgYB7q8u3Mi5GrA+fEuLTETKA\n2x1IO3n5F3ehloivptGeYtE+eniGkEql+wWTHnDxQqz7XYfSUxNegfDGDu+lEoFi\nuDCdksvtCHneAG35Lb6MYm5PSvsV2wMmzxvCoakZLGQU8Ls4/NlYlFy2y2RVsOgr\nM6yHmh74P26IvdGk4yegIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "asj-digital-postgsql-sa-dev@asj-digital.iam.gserviceaccount.com",
+  "client_id": "113064988563961091749",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asj-digital-postgsql-sa-dev%40asj-digital.iam.gserviceaccount.com"
+}

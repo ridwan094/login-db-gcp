@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asj-digital-production",
+  "private_key_id": "186346d1738fe9370e2b50a16990d5ee98865251",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClsImH8VWCZtSH\nGP9FNdxEuwrDSHzG9zicRv7Z9Ecvn69P1oddbRTtKS22NMIo3uHdMcGXzYdndxwN\noVw8ZpQjAlFnzPZUS42pF2ojKhhdn0dImoffSaRZjdaV0sWBrX+7D4i+RqE2skgs\nBJnUYk5uUF1y1CujXR0ARuttbBqLpN7mivu+HBk60ij0hMrQ/zE3MaUayAF075Wc\nPwMcYNV5utfEygdlnLzR4FdtjrldkFYKSLPq3+5qfg2PTwMzE0FJcEFddll4GjAG\nnqLQqLSaHTSBkEyT0RngnutzoEXSV1x7DnCRddX7fPER904AkC4emcb8wzPS3cfZ\nsXEc4YnTAgMBAAECggEALK1DEGh3Na/Tm9AWOQvSZqgGuWyI1L+hwKX2H0Aal9FX\nnNAMdRkuPNrPLCPivNGIlrPNb0jou3HnGxfI/rJsPFpqJ/Kg807iFletc2js5AXI\nW1/rxj4dtlYkKAcK4bIuUHraVPBHlS+SfWgKMLYHTwCVihqC38yCPupgngM5zzBJ\nJnxZc2Jtlu9BLg2BDasXZsQAbxrgopV9pRXMZFpt5huNf6dYPbAub5Cp1SYCdmgQ\n1G6/w36SYvckLpzQNzglrlaCkPuhULB4RKXPOd8BaylvcMoMQIllBOn2aincqkWz\nGpMcNTzSkN6/xvcM9AwCXLLqP9FGOnAtDRRSxFuZ0QKBgQDO+gKtlpDNa8mAeLJg\nVcHD829T2AKr5X6rxlaEDS59SPuyieaWB8xdqD/9Ls6MxKp84ZtMUFvbC1sjD/Po\nqcolZkJa7no9VZ9OgH+akxjUdMIRGedhTu+BIeQNr4rHIizsiFknEsjJU883zSLV\nTILZVnAbKsBnbVAaforSrVXEQwKBgQDM7xi5IJ0x1+5MUMICIcTCeD7TrqIxiF6q\nCu/tpAFw+fk4foV7+F2KuGIXMHn2mYNbkTu33s0ILEYFq7EzNNwR2TH8mvpPKpaf\nl/tpVZWuNUsbffKY533BEj7XehjM4K0WJh41nxUCFY/qVtFM1EkJ/eWVu27nbs/P\nBOvR6yITMQKBgGxuskR64vWbiH9TvC+X/eFIgYRtYEjp/EjFqcGYnkhomeRZNoJX\nJ4vRf2SGxxMcXSz7jL6YQucoteBSlTfI6+xX/F9jHItRdhpMW42BjrqPSLRo270w\n+2ytcqpw0sWsc9ifPgWoY6SF0cOsJpmUceCm1iiFZzNII3Ud4mCpCou9AoGBAMbg\nga2m6OYmFywYcy5+duQCrXXgU6aeIMAEPTLxpjRtYl5g6kmUjbLBnO/EK5gVAlUq\nbDnUDkWQMaPvKtf2xFrN3KS4AZIyUlous91VIR0euvTDFVsty+xCOJoD821f3JlS\nBJ8k8s5C/pb8CcH1gawgqVzVuJr//st4iyH8feUBAoGBALZojW+6uhVkaAT9xwQ7\nfQpDPXhnNSw9pVOMligFGGyzaitl9qSjo4KMSBKw+Bms75YgaGHd/vLUJT6ER+l/\nMojzwS4/vtHoaFzdaM7Fw5FEqo9Fx+7LocpMPAsUMwyozTZDfsf1zy1ysVtbUaob\nhKgCw5gGI84nQ6esjX9xsgLV\n-----END PRIVATE KEY-----\n",
+  "client_email": "prod-postgre-admin@asj-digital-production.iam.gserviceaccount.com",
+  "client_id": "112981384001545730107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prod-postgre-admin%40asj-digital-production.iam.gserviceaccount.com"
+}
